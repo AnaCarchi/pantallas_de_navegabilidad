@@ -12,7 +12,7 @@ class ProjectDescriptionScreen extends StatelessWidget {
         child: Padding(
           padding: EdgeInsets.all(16.0),
           child: Text(
-            'Este proyecto es una aplicación diseñada para... (Descripción detallada)',
+            'Este proyecto es una aplicación diseñada .........',
             style: TextStyle(fontSize: 18, color: Colors.black),
           ),
         ),
